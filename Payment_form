@@ -7,6 +7,7 @@
     <title>Payment form</title>
   </head>
   <body>
+  
     <form action="">
       <h1>Payment form</h1>
       <p>Rrquired fields are followed by *</p>
